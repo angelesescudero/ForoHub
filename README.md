@@ -12,6 +12,9 @@ Nuestra API se centra específicamente en los tópicos y permite a los usuarios:
 - ✏️ **Actualizar un tópico**.
 - ⛔ **Eliminar un tópico**.
 
+  ![Intellij - ForoHub](https://github.com/user-attachments/assets/3fd2f31d-c080-4de3-b455-4fd0f7800703)
+
+
 ## 🎯 Objetivos del Proyecto
 
 ### 🎯 Objetivo General
